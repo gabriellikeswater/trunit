@@ -13,7 +13,7 @@ A Lightweight, Well-Documented Program to run your Terraria PC Server &amp; Pyth
 
 3 - If you run into any problems just send us an Issue request on our Github page's "Issues"
     section and we'll try to help you out as fast as possible. This could mean you indirectly
-    contributed to our program's code so It wont happen again to others, thank you!!
+    contributed to our program's code so It won't happen again to others, thank you!!
 
 ## 📶 What is "Playit.gg"?
 
