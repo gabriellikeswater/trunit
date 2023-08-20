@@ -21,6 +21,8 @@ Playit.gg is a global proxy that allows anyone to host a videogame server withou
 
 ## ❓ How it works
 
+Trunit works by reading the files in the server's folder and opening the server files within the program as well as a python discord bot and playit proxy (not within the program), via user input commands. It is one of our goals to make the user interface as simple, clean and awesome as possible. We will personally then take notes of any issues you tell us about to improve the program. (as well as all my other projects)
+
 ## 📜 More info...
 
 ...inside the program.
