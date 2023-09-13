@@ -19,9 +19,11 @@ A Lightweight, Well-Documented Program to run your Terraria PC Server &amp; Pyth
 
 Playit.gg is a global proxy that allows anyone to host a videogame server without port forwarding by using tunneling, including Terraria. Only the server needs to run the program, not every player. Learn more at https://playit.gg
 
+IMPORTANT! - Trunit is NOT associated with Playit, go support them!
+
 ## ❓ How it works
 
-Trunit works by reading the files in the server's folder and opening the server files within the program as well as a python discord bot and playit proxy (not within the program), via user input commands. It is one of our goals to make the user interface as simple, clean and awesome as possible. We will personally then take notes of any issues you tell us about to improve the program. (as well as all my other projects)
+Trunit works by reading the files in the server's folder and opening the server files within the program as well as a python discord bot and playit proxy (not within the program), via user input commands. It is one of my goals to make the user interface as simple, clean and awesome as possible. I will personally then take notes of any issues you tell me about to improve the program. (as well as all my other projects)
 
 ## 📜 More info...
 
