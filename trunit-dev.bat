@@ -73,7 +73,7 @@ cls
 echo    TYPE "mainarea" TO GO BACK TO THE MAIN AREA.
 echo.
 echo.
-echo  - https://github.com/gabriellikeswater/runit
+echo  - https://github.com/gabriellikeswater/trunit
 echo.
 echo.
 
